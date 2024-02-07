@@ -18,11 +18,8 @@ We aim to design and create a website to bridge the gap between Humanities and E
 ## Business Needs/Opportunities
 
 - Member-only content:
-  - Social media links (e.g., LinkedIn)
-  - University profile page links
-  - Paper repository feature
-  - Login feature
-  - Member profile feature
+  - Social media links (e.g., LinkedIn) (Paper repository feature; Login feature; Member profile feature)
+  - University profile page links (Paper repository feature; Login feature; Member profile feature)
 - Dual webpages for English and French (Bilingual feature)
 - Public page showcasing activities, research abstract descriptions, etc. (About SIG feature)
 - Connection between members of different SIGs (Networking Insights feature)
