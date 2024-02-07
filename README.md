@@ -1,4 +1,3 @@
-# ENSE871-Proj
 Team members :- 
 Bhargav Taraviya
 Muhammad Israr Khan
@@ -22,8 +21,14 @@ Searching and finding papers with filters on locations, year, authors and topics
 Reliable and Ease of maintenance
 
 Target Customers :- 
+
 Northstar Customer :- Engineering and Humanities SIG Members (our 4 wonderful professors). 
 Carryover Customer :- Different SIG Members, public users who would want to be a part of CEEA in the future. 
+
+
+
+
+
 
 Project Assumptions :- 
 WordPress
@@ -43,4 +48,3 @@ Understanding the plugins WordPress in 2 months.
 
 
 		
-
