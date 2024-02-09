@@ -13,7 +13,7 @@ Our objective is to collaborate with Chantal Rodier (University of Ottawa), Debo
 
 ## Problem Description
 
-We aim to design and create a website to bridge the gap between Humanities and Engineering SIG members in Canada, with potential global implications, fostering continual improvement in engineering and design education.
+To design and create a webpage to bridge the gap between Humanities and Engineering SIG (in Canada) members, students and educators for continual improvement in engineering education by bringing in different perspectives. 
 
 ## Business Needs/Opportunities
 
