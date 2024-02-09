@@ -40,7 +40,7 @@ Different SIG Members, public users who would want to be a part of CEEA in the f
 
 - WordPress
 - GitHub
-- StoriesOnBoard
+- StoriesOnBoard [](https://ppr270.storiesonboard.com/storymap/guidemap)
 - YouTube (learning)
 - ChatGPT (learning)
 
