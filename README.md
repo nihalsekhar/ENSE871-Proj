@@ -43,6 +43,8 @@ Different SIG Members, public users who would want to be a part of CEEA in the f
 - StoriesOnBoard [](https://ppr270.storiesonboard.com/storymap/guidemap)
 - YouTube (learning)
 - ChatGPT (learning)
+- Figma [](https://www.figma.com/file/TcVmIR564lDvr3CcfuBL4s/Prototype-1?type=design&node-id=0%3A1&mode=design&t=pRGw2A7ebdE04Kx0-1)
+- Sitemap Planning [](https://lucid.app/lucidspark/3289785c-e512-4586-8a68-88041b42c959/edit?viewport_loc=-2053%2C-1565%2C5829%2C2846%2C0_0&invitationId=inv_5ceb4df3-6078-4020-9347-23d2a93852e7)
 
 ## Project Constraints
 
