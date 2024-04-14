@@ -34,7 +34,7 @@ Engineering and Humanities SIG Members (our 4 wonderful professors).
 
 ## Carryover Customer
 
-Different SIG Members, public users who would want to be a part of CEEA in the future.
+Different SIG Members, public users who would want to be a part of the H&E SIG in the future.
 
 ## Project Assumptions
 
